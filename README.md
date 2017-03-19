@@ -54,3 +54,6 @@ Excel Workshop
 [Excel Tutorial](https://github.com/ALADataViz/ala2016workshop/wiki/Excel-Tutorial)
 ###Reading 
 [Collections as Data LOC](https://blogs.loc.gov/thesignal/2017/02/read-collections-as-data-report-summary/)
+
+###Other Mural Sites
+http://www.pghmurals.com/
