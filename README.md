@@ -1,14 +1,13 @@
-## HappyMapping
-Get started on a digital mapping project. 
+## A Geospatial Mural
+ 
 
 [Slides](https://slides.com/andyrutkowski/deck/live)
 
-###Create a [Carto Account] (https://carto.com/signup/)
 
 ###Data:
 [Google Drive] (https://drive.google.com/drive/folders/0B0GLYH70A2T7RDhyU1ZSMC1qZjQ?usp=sharing)
 
-Pick LA Times Photo or LA Murals (or map both!)
+LA Murals 
 
 Download Zip Shapefile of LA Neighborhoods.
 
@@ -21,13 +20,15 @@ Download Zip Shapefile of LA Neighborhoods.
   </ul>
 </div>
 ```
+##Toolkit
 
 ###Latlong and Geocoding
 [Best latlong courtesy of UCLA's Yoh Kawano] (http://getlatlon.yohman.com/)
 
 [Fun geocoding macro] (https://github.com/nuket/google-sheets-geocoding-macro)
 
-### Bonus Odyssey.JS
+### How to 
+Bonus Odyssey.JS
 Bring your CARTO visualization into Odyssey.JS and tell a story.
 
 Use the following string to bring in your CARTO map:
@@ -48,7 +49,8 @@ Here is an example with a Rumsey map as well as a CARTO map:
 -author: "CartoDB"
 -vizjson: "http://andyrutkowskiucla.cartodb.com/u/andyrutkowskiucla/api/v2/viz/6f637d56-fd6e-11e6-a253-0e233c30368f/viz.json"  
 ```
-###Excel Workshop
+###Select Resources
+Excel Workshop
 [Excel Tutorial](https://github.com/ALADataViz/ala2016workshop/wiki/Excel-Tutorial)
 ###Reading 
 [Collections as Data LOC](https://blogs.loc.gov/thesignal/2017/02/read-collections-as-data-report-summary/)
